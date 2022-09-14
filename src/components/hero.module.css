@@ -1,5 +1,5 @@
 .hero {
-  align-items: flex-end;
+  align-items: flex-start;
   display: flex;
   margin: 0 auto;
   max-width: var(--size-max-width);
@@ -40,6 +40,8 @@
   font-weight: var(--semibold);
   margin: 0;
 }
+
+
 
 @media (min-width: 480px) {
   .details {

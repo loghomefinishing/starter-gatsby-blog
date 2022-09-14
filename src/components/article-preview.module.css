@@ -4,7 +4,7 @@
   list-style: none;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  grid-gap: var(--space-3xl);
+  grid-gap: var(--space-2xl);
 }
 
 .title {
@@ -29,5 +29,5 @@
 }
 
 .h1 {
-  font-size: 24px;
+  font-size: 50px;
 }
