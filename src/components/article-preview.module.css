@@ -9,14 +9,14 @@
 
 .title {
   display: inline-block;
-  font-size: var(--text-lg);
+  font-size: var(--text-xxl);
   margin-bottom: var(--space-xs);
   margin-top: var(--space-lg);
   border-bottom: 1.5px solid transparent;
 }
 
 .link {
-  text-decoration: none;
+  text-decoration: blue;
 }
 
 .link:hover .title {
@@ -26,4 +26,8 @@
 .meta {
   display: flex;
   justify-content: space-between;
+}
+
+.h1 {
+  font-size: 24px;
 }

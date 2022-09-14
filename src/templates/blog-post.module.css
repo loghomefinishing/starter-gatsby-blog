@@ -40,8 +40,8 @@
 
 .article h1,
 .article h2 {
-  font-size: var(--text-2xl);
-  margin-top: var(--space-3xl);
+  font-size: var(--text-4xl);
+  margin-top: var(--space-2xl);
 }
 
 .article h3,
